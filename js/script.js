@@ -96,6 +96,7 @@ document.addEventListener("DOMContentLoaded", function() {
             slidesToScroll: 1,
             arrows: false,
             autoplay: true,
+            dots: true
           });
           $('.slider').slick({
             infinite: true,
